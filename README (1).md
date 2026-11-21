@@ -40,7 +40,7 @@ As k grows, the error falls and the image is more faithful, but the compression 
 
 ## Project structure
 ```
-procesamiento-imagenes/
+image-processing-svd-pca/
 ├── procesamiento-imagenes.ipynb
 ├── imagen_original.png
 ├── canales_RGB.png
@@ -105,7 +105,7 @@ A medida que k aumenta, el error baja y la imagen se parece más a la original, 
 
 ## Estructura del proyecto
 ```
-procesamiento-imagenes/
+image-processing-svd-pca/
 ├── procesamiento-imagenes.ipynb
 ├── imagen_original.png
 ├── canales_RGB.png
